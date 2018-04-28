@@ -12,7 +12,7 @@
     "value": "Aura"
   },
   "/lotus/language/alerts/alertrewardcategoryblueprint": {
-    "value": "Blueprint"
+    "value": "蓝图"
   },
   "/lotus/language/alerts/alertrewardcategoryitem": {
     "value": "Item"
@@ -243,7 +243,7 @@
     "value": "Weapons Cache Compromised"
   },
   "/lotus/language/alerts/defensedesc13": {
-    "value": "Secure The Rubedo Mining Outpost"
+    "value": "Secure The 红化结晶 Mining Outpost"
   },
   "/lotus/language/alerts/defensedesc14": {
     "value": "Secure Derelict Ship"
@@ -477,7 +477,7 @@
     "value": "Artifact Depot Discovered"
   },
   "/lotus/language/alerts/raiddesc3": {
-    "value": "Rubedo Depot Discovered"
+    "value": "红化结晶 Depot Discovered"
   },
   "/lotus/language/alerts/raiddesc4": {
     "value": "Mining Station Discovered"
@@ -765,7 +765,7 @@
     "value": "Rathuum Prisoner Coordinates"
   },
   "/lotus/language/items/orokinreactor": {
-    "value": "Orokin Reactor"
+    "value": "OROKIN反应堆"
   },
   "/lotus/language/menu/corpusinvasiongeneric": {
     "value": "Corpus Siege"
@@ -3295,7 +3295,7 @@
     "value": "Shrug"
   },
   "/lotus/storeitems/types/items/miscitems/alloyplate": {
-    "value": "Alloy Plate"
+    "value": "合金板"
   },
   "/lotus/storeitems/types/items/miscitems/alphacorruptorresource": {
     "value": "Alpha Corruptor"
@@ -3304,7 +3304,7 @@
     "value": "Orokin Archive"
   },
   "/lotus/storeitems/types/items/miscitems/argoncrystal": {
-    "value": "Argon Crystal"
+    "value": "氩结晶"
   },
   "/lotus/storeitems/types/items/miscitems/beacon": {
     "value": "Proof Fragment"
@@ -3316,13 +3316,13 @@
     "value": "Lephantis Nav Coordinate"
   },
   "/lotus/storeitems/types/items/miscitems/circuits": {
-    "value": "Circuits"
+    "value": "电路"
   },
   "/lotus/storeitems/types/items/miscitems/controlmodule": {
     "value": "Control Module"
   },
   "/lotus/storeitems/types/items/miscitems/cryotic": {
-    "value": "Cryotic"
+    "value": "永冻晶矿"
   },
   "/lotus/storeitems/types/items/miscitems/dangerroomkey": {
     "value": "Simulacrum Access Key"
@@ -3331,7 +3331,7 @@
     "value": "Tethra Data Fragments"
   },
   "/lotus/storeitems/types/items/miscitems/ferrite": {
-    "value": "Ferrite"
+    "value": "铁氧体"
   },
   "/lotus/storeitems/types/items/miscitems/forma": {
     "value": "Forma"
@@ -3373,7 +3373,7 @@
     "value": "Morphics"
   },
   "/lotus/storeitems/types/items/miscitems/nanospores": {
-    "value": "Nano Spores"
+    "value": "纳米孢子"
   },
   "/lotus/storeitems/types/items/miscitems/navcode": {
     "value": "Nav Coordinate"
@@ -3388,52 +3388,52 @@
     "value": "Omega Isotope"
   },
   "/lotus/storeitems/types/items/miscitems/orokincatalyst": {
-    "value": "Orokin Catalyst"
+    "value": "OROKIN催化剂"
   },
   "/lotus/storeitems/types/items/miscitems/orokincell": {
-    "value": "Orokin Cell"
+    "value": "OROKIN电池"
   },
   "/lotus/storeitems/types/items/miscitems/orokinreactor": {
-    "value": "Orokin Reactor"
+    "value": "OROKIN反应堆"
   },
   "/lotus/storeitems/types/items/miscitems/oxiumalloy": {
-    "value": "Oxium"
+    "value": "奥席金属"
   },
   "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
     "value": "Inaros Tomb Scene"
   },
   "/lotus/storeitems/types/items/miscitems/plastids": {
-    "value": "Plastids"
+    "value": "生物质"
   },
   "/lotus/storeitems/types/items/miscitems/polymerbundle": {
-    "value": "Polymer Bundle"
+    "value": "聚合物束"
   },
   "/lotus/storeitems/types/items/miscitems/polymerbundle240tutorialquest": {
-    "value": "Polymer Bundle"
+    "value": "聚合物束"
   },
   "/lotus/storeitems/types/items/miscitems/polymerbundleraidtutorial": {
-    "value": "Polymer Bundle"
+    "value": "聚合物束"
   },
   "/lotus/storeitems/types/items/miscitems/primebucks": {
     "value": "Orokin Ducats"
   },
   "/lotus/storeitems/types/items/miscitems/rubedo": {
-    "value": "Rubedo"
+    "value": "红化结晶"
   },
   "/lotus/storeitems/types/items/miscitems/salvage": {
-    "value": "Salvage"
+    "value": "回收金属"
   },
   "/lotus/storeitems/types/items/miscitems/salvage450tutorialquest": {
-    "value": "Salvage"
+    "value": "回收金属"
   },
   "/lotus/storeitems/types/items/miscitems/salvageraidtutorial": {
-    "value": "Salvage"
+    "value": "回收金属"
   },
   "/lotus/storeitems/types/items/miscitems/stablecorruptorresource": {
     "value": "Stable Corruptor"
   },
   "/lotus/storeitems/types/items/miscitems/tellurium": {
-    "value": "Tellurium"
+    "value": "碲"
   },
   "/lotus/storeitems/types/items/miscitems/utilityunlocker": {
     "value": "Exilus Adapter"
@@ -3838,7 +3838,7 @@
     "value": "Find Corpus Intelligence About The Balor Fomorians"
   },
   "/lotus/storeitems/types/keys/archwingquest/missiontwo": {
-    "value": "Extract The Odonata Archwing Wings Blueprint"
+    "value": "Extract The Odonata Archwing Wings 蓝图"
   },
   "/lotus/storeitems/types/keys/corpuscapturekey": {
     "value": "Corpus Void Key"
@@ -4171,16 +4171,16 @@
     "value": "Grustrag Bolt Release"
   },
   "/lotus/storeitems/types/recipes/components/corruptedbombardballblueprint": {
-    "value": "Corrupted Bombard Specter Blueprint"
+    "value": "Corrupted Bombard Specter 蓝图"
   },
   "/lotus/storeitems/types/recipes/components/formablueprint": {
-    "value": "Forma Blueprint"
+    "value": "Forma 蓝图"
   },
   "/lotus/storeitems/types/recipes/components/orokincatalystblueprint": {
-    "value": "Orokin Catalyst Blueprint"
+    "value": "OROKIN催化剂 蓝图"
   },
   "/lotus/storeitems/types/recipes/components/orokinreactorblueprint": {
-    "value": "Orokin Reactor Blueprint"
+    "value": "OROKIN反应堆 蓝图"
   },
   "/lotus/storeitems/types/recipes/components/vorboltremoverfakeitem": {
     "value": "Ascaris Negator"
@@ -4192,202 +4192,202 @@
     "value": "Arcane"
   },
   "/lotus/storeitems/types/recipes/darkswordblueprint": {
-    "value": "Dark Sword Blueprint"
+    "value": "Dark Sword 蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/animaalthelmetblueprint": {
-    "value": "Equinox Solstice Helmet Blueprint"
+    "value": "Equinox Solstice 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/bardalthelmetblueprint": {
-    "value": "Octavia Cadenza Helmet Blueprint"
+    "value": "Octavia Cadenza 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/brawleralthelmetblueprint": {
-    "value": "Atlas Tartarus Helmet Blueprint"
+    "value": "Atlas Tartarus 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/brawleralttwohelmetblueprint": {
-    "value": "Atlas Shikoro Helmet Blueprint"
+    "value": "Atlas Shikoro 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/chromaaltbhelmetblueprint": {
-    "value": "Chroma Amaru Helmet Blueprint"
+    "value": "Chroma Amaru 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/cowgirlalthelmetblueprint": {
-    "value": "Mesa Longhorn Helmet Blueprint"
+    "value": "Mesa Longhorn 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/dragonalthelmetblueprint": {
-    "value": "Chroma Drac Helmet Blueprint"
+    "value": "Chroma Drac 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/excaliburmordredhelmetblueprint": {
-    "value": "Excalibur Mordred Helmet Blueprint"
+    "value": "Excalibur Mordred 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/fairyalthelmetblueprint": {
-    "value": "Titania Aurai Helmet Blueprint"
+    "value": "Titania Aurai 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/glassalthelmetblueprint": {
-    "value": "Gara Virago Helmet Blueprint"
+    "value": "Gara Virago 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/harlequinalthelmetblueprint": {
-    "value": "Mirage Harlequin Helmet Blueprint"
+    "value": "Mirage Harlequin 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/limboaltbhelmetblueprint": {
-    "value": "Limbo Magrite Helmet Blueprint"
+    "value": "Limbo Magrite 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/limboaristeashelmetblueprint": {
-    "value": "Limbo Aristeas Helmet Blueprint"
+    "value": "Limbo Aristeas 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/lokienigmahelmetblueprint": {
-    "value": "Loki Enigma Helmet Blueprint"
+    "value": "Loki Enigma 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/mesaaltbhelmetblueprint": {
-    "value": "Mesa Ovis Helmet Blueprint"
+    "value": "Mesa Ovis 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/miragealtbhelmetblueprint": {
-    "value": "Mirage Trivelin Helmet Blueprint"
+    "value": "Mirage Trivelin 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/monkeykingaltbhelmetblueprint": {
-    "value": "Wukong Macak Helmet Blueprint"
+    "value": "Wukong Macak 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/nekrosaraknidhelmetblueprint": {
-    "value": "Nekros Raknis Helmet Blueprint"
+    "value": "Nekros Raknis 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/nekrosshroudhelmetblueprint": {
-    "value": "Nekros Shroud Helmet Blueprint"
+    "value": "Nekros Shroud 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/nezhaalthelmetblueprint": {
-    "value": "Nezha Circa Helmet Blueprint"
+    "value": "Nezha Circa 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/nidusalthelmetblueprint": {
-    "value": "Nidus Prion Helmet Blueprint"
+    "value": "Nidus Prion 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/novaquantumhelmetblueprint": {
-    "value": "Nova Quantum Helmet Blueprint"
+    "value": "Nova Quantum 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/novaslipstreamhelmetblueprint": {
-    "value": "Nova Slipstream Helmet Blueprint"
+    "value": "Nova Slipstream 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/oberonaltbhelmetblueprint": {
-    "value": "Oberon Markhor Helmet Blueprint"
+    "value": "Oberon Markhor 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/oberonalthelmetblueprint": {
-    "value": "Oberon Oryx Helmet Blueprint"
+    "value": "Oberon Oryx 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/piratealtbhelmetblueprint": {
-    "value": "Hydroid Ketos Helmet Blueprint"
+    "value": "Hydroid Ketos 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/piratealthelmetblueprint": {
-    "value": "Hydroid Triton Helmet Blueprint"
+    "value": "Hydroid Triton 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/priestalthelmetblueprint": {
-    "value": "Harrow Suffragan Helmet Blueprint"
+    "value": "Harrow Suffragan 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/rangeraltbhelmetblueprint": {
-    "value": "Ivara Zirastra Helmet Blueprint"
+    "value": "Ivara Zirastra 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/rangeralthelmetblueprint": {
-    "value": "Ivara Loxley Helmet Blueprint"
+    "value": "Ivara Loxley 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/sandmanaltbhelmetblueprint": {
-    "value": "Inaros Canopic Helmet Blueprint"
+    "value": "Inaros Canopic 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/sandmanalthelmetblueprint": {
-    "value": "Inaros Anubis Helmet Blueprint"
+    "value": "Inaros Anubis 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessashalthelmetblueprint": {
-    "value": "Ash Scorpion Helmet Blueprint"
+    "value": "Ash Scorpion 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessbansheealthelmetblueprint": {
-    "value": "Banshee Reverb Helmet Blueprint"
+    "value": "Banshee Reverb 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessemberalthelmetblueprint": {
-    "value": "Ember Phoenix Helmet Blueprint"
+    "value": "Ember Phoenix 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessexcaliburalthelmetblueprint": {
-    "value": "Excalibur Avalon Helmet Blueprint"
+    "value": "Excalibur Avalon 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessfrostalthelmetblueprint": {
-    "value": "Frost Aurora Helmet Blueprint"
+    "value": "Frost Aurora 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlesslokialthelmetblueprint": {
-    "value": "Loki Essence Helmet Blueprint"
+    "value": "Loki Essence 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessmagalthelmetblueprint": {
-    "value": "Mag Coil Helmet Blueprint"
+    "value": "Mag Coil 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessnovaalthelmetblueprint": {
-    "value": "Nova Flux Helmet Blueprint"
+    "value": "Nova Flux 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessnyxalthelmetblueprint": {
-    "value": "Nyx Menticide Helmet Blueprint"
+    "value": "Nyx Menticide 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessrhinoalthelmetblueprint": {
-    "value": "Rhino Thrak Helmet Blueprint"
+    "value": "Rhino Thrak 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlesssarynalthelmetblueprint": {
-    "value": "Saryn Hemlock Helmet Blueprint"
+    "value": "Saryn Hemlock 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlesstrinityalthelmetblueprint": {
-    "value": "Trinity Aura Helmet Blueprint"
+    "value": "Trinity Aura 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2ashalthelmetblueprint": {
-    "value": "Ash Locust Helmet Blueprint"
+    "value": "Ash Locust 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2bansheealthelmetblueprint": {
-    "value": "Banshee Chorus Helmet Blueprint"
+    "value": "Banshee Chorus 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2emberalthelmetblueprint": {
-    "value": "Ember Backdraft Helmet Blueprint"
+    "value": "Ember Backdraft 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2excaliburalthelmetblueprint": {
-    "value": "Excalibur Pendragon Helmet Blueprint"
+    "value": "Excalibur Pendragon 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2frostalthelmetblueprint": {
-    "value": "Frost Squall Helmet Blueprint"
+    "value": "Frost Squall 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2lokialthelmetblueprint": {
-    "value": "Loki Swindle Helmet Blueprint"
+    "value": "Loki Swindle 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2magalthelmetblueprint": {
-    "value": "Mag Gauss Helmet Blueprint"
+    "value": "Mag Gauss 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2nyxalthelmetblueprint": {
-    "value": "Nyx Vespa Helmet Blueprint"
+    "value": "Nyx Vespa 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2rhinoalthelmetblueprint": {
-    "value": "Rhino Vanguard Helmet Blueprint"
+    "value": "Rhino Vanguard 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2sarynalthelmetblueprint": {
-    "value": "Saryn Chlora Helmet Blueprint"
+    "value": "Saryn Chlora 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2trinityalthelmetblueprint": {
-    "value": "Trinity Meridian Helmet Blueprint"
+    "value": "Trinity Meridian 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2vaubanalthelmetblueprint": {
-    "value": "Vauban Gambit Helmet Blueprint"
+    "value": "Vauban Gambit 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessv2voltalthelmetblueprint": {
-    "value": "Volt Pulse Helmet Blueprint"
+    "value": "Volt Pulse 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessvaubanalthelmetblueprint": {
-    "value": "Vauban Esprit Helmet Blueprint"
+    "value": "Vauban Esprit 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessvoltalthelmetblueprint": {
-    "value": "Volt Storm Helmet Blueprint"
+    "value": "Volt Storm 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/valkyraltbhelmetblueprint": {
-    "value": "Valkyr Kara Helmet Blueprint"
+    "value": "Valkyr Kara 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/valkyrbastethelmetblueprint": {
-    "value": "Valkyr Bastet Helmet Blueprint"
+    "value": "Valkyr Bastet 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/vaubanhelmetsoldierblueprint": {
-    "value": "Vauban Armistice Helmet Blueprint"
+    "value": "Vauban Armistice 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/wukongalthelmetblueprint": {
-    "value": "Wukong Dasheng Helmet Blueprint"
+    "value": "Wukong Dasheng 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/zephyrcierzohelmetblueprint": {
-    "value": "Zephyr Cierzo Helmet Blueprint"
+    "value": "Zephyr Cierzo 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/helmets/zephyrtenguhelmetblueprint": {
-    "value": "Zephyr Tengu Helmet Blueprint"
+    "value": "Zephyr Tengu 头盔蓝图"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/ashchassiscomponent": {
     "value": "Ash Chassis"
@@ -4642,19 +4642,19 @@
     "value": "Zephyr Systems"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trapperchassisblueprint": {
-    "value": "Vauban Chassis Blueprint"
+    "value": "Vauban Chassis 蓝图"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trapperchassiscomponent": {
     "value": "Vauban Chassis"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trapperhelmetblueprint": {
-    "value": "Vauban Neuroptics Blueprint"
+    "value": "Vauban Neuroptics 蓝图"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trapperhelmetcomponent": {
     "value": "Vauban Neuroptics"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trappersystemsblueprint": {
-    "value": "Vauban Systems Blueprint"
+    "value": "Vauban Systems 蓝图"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trappersystemscomponent": {
     "value": "Vauban Systems"
@@ -4687,40 +4687,40 @@
     "value": "Volt Systems"
   },
   "/lotus/storeitems/types/recipes/weapons/ceramicdaggerblueprint": {
-    "value": "Ceramic Dagger Blueprint"
+    "value": "陶瓷匕首 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/darkdaggerblueprint": {
-    "value": "Dark Dagger Blueprint"
+    "value": "暗黑匕首 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/glaiveblueprint": {
-    "value": "Glaive Blueprint"
+    "value": "战刃 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/heatdaggerblueprint": {
-    "value": "Heat Dagger Blueprint"
+    "value": "烈焰匕首 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/heatswordblueprint": {
-    "value": "Heat Sword Blueprint"
+    "value": "烈焰长剑 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/jawblueprint": {
-    "value": "Jaw Sword Blueprint"
+    "value": "蛇颚剑 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/pangolinswordblueprint": {
-    "value": "Pangolin Sword Blueprint"
+    "value": "鲮鲤剑 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/plasmaswordblueprint": {
-    "value": "Plasma Sword Blueprint"
+    "value": "等离子长剑 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/skins/daggeraxeblueprint": {
-    "value": "Dagger Axe Scindo Skin"
+    "value": "分裂斩斧匕刃外观 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/skins/dualdaggeraxeblueprint": {
-    "value": "Dagger Zoren Skin Blueprint"
+    "value": "佐伦双斧匕刃外观 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/skins/grnaxeblueprint": {
-    "value": "Scindo Manticore Axe Skin Blueprint"
+    "value": "分裂斩斧蝎尾狮外观 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/skins/grnhammerblueprint": {
-    "value": "Brokk Hammer Skin Blueprint"
+    "value": "重击巨锤布洛克外观 蓝图"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/akbroncoprimelink": {
     "value": "Akbronco Prime Link"
@@ -6211,7 +6211,7 @@
     "value": "Hollowed Bullets"
   },
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingrifledamageamountmod": {
-    "value": "Rubedo-lined Barrel"
+    "value": "红化结晶-lined Barrel"
   },
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingriflefireiterationsmod": {
     "value": "Dual Rounds"
@@ -6583,31 +6583,31 @@
     "value": "Uncommon Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/alertfusionbundlelarge": {
-    "value": "150 Endo"
+    "value": "150 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/alertfusionbundlemedium": {
-    "value": "100 Endo"
+    "value": "100 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/alertfusionbundlesmall": {
-    "value": "80 Endo"
+    "value": "80 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/rarefusionbundle": {
-    "value": "80 Endo"
+    "value": "80 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/rarelvl1fusionbundle": {
-    "value": "30 Endo"
+    "value": "30 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/rarelvl2fusionbundle": {
-    "value": "40 Endo"
+    "value": "40 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/rarelvl3fusionbundle": {
-    "value": "55 Endo"
+    "value": "55 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/rarelvl4fusionbundle": {
-    "value": "65 Endo"
+    "value": "65 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/rarelvl5fusionbundle": {
-    "value": "80 Endo"
+    "value": "80 内融核心"
   },
   "/lotus/storeitems/upgrades/mods/melee/beginner/weaponarmorpiercingdamagemodbeginner": {
     "value": "Sundering Strike"
@@ -6694,7 +6694,7 @@
     "value": "Volcanic Edge"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/focusenergymod": {
-    "value": "Focus Energy"
+    "value": "聚焦能量"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/iceeventmeleemod": {
     "value": "Vicious Frost"
@@ -6703,7 +6703,7 @@
     "value": "Virulent Scourge"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/rendingstrikemod": {
-    "value": "Rending Strike"
+    "value": "撕裂打击"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponarmorpiercingdamagemodexpert": {
     "value": "Primed Sundering Strike"
@@ -6970,19 +6970,19 @@
     "value": "Scorch"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/grindermod": {
-    "value": "Lethal Torrent"
+    "value": "致命洪流"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/iceeventpistolmod": {
     "value": "Frostbite"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/icestormmod": {
-    "value": "Ice Storm"
+    "value": "冰风暴"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/poisoneventpistolmod": {
     "value": "Pistol Pestilence"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/stunningspeedmod": {
-    "value": "Stunning Speed"
+    "value": "慑人神速"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/primedweaponcritdamagemod": {
     "value": "Primed Target Cracker"
@@ -7399,7 +7399,7 @@
     "value": "Thermite Rounds"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/hammershotmod": {
-    "value": "Hammer Shot"
+    "value": "重锤射击"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/iceeventriflemod": {
     "value": "Rime Rounds"
@@ -7408,10 +7408,10 @@
     "value": "Malignant Force"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/shredmod": {
-    "value": "Shred"
+    "value": "撕裂"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/wildfiremod": {
-    "value": "Wildfire"
+    "value": "野火"
   },
   "/lotus/storeitems/upgrades/mods/rifle/eventsniperreloaddamagemod": {
     "value": "Primed Chamber"
@@ -7690,7 +7690,7 @@
     "value": "Enhanced Vitality"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarmod": {
-    "value": "Animal Instinct"
+    "value": "动物本能"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/sentineloverheatdamagemod": {
     "value": "Fired Up"
@@ -7762,10 +7762,10 @@
     "value": "Contagious Spread"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/acceleratedblastmod": {
-    "value": "Accelerated Blast"
+    "value": "加速冲击"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/blazemod": {
-    "value": "Blaze"
+    "value": "烈焰"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/corruptedaccuracyfirerateshotgun": {
     "value": "Tainted Shell"
@@ -7795,7 +7795,7 @@
     "value": "Toxic Barrage"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/reloadspeedpunchthroughmod": {
-    "value": "Seeking Fury"
+    "value": "狂暴追猎"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponammomaxmodexpert": {
     "value": "Shell Compression"
@@ -8284,7 +8284,7 @@
     "value": "Intruder"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/constitutionmod": {
-    "value": "Constitution"
+    "value": "百折不挠"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/corrupteddurationrangewarframe": {
     "value": "Narrow Minded"
@@ -8302,13 +8302,13 @@
     "value": "Overextended"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/fortitudemod": {
-    "value": "Fortitude"
+    "value": "不屈不挠"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/runspeedarmormod": {
-    "value": "Armored Agility"
+    "value": "灵活装甲"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/vigormod": {
-    "value": "Vigor"
+    "value": "活力"
   },
   "/lotus/storeitems/upgrades/mods/warframe/expert/avatarabilitydurationmodexpert": {
     "value": "Primed Continuity"
@@ -8860,7 +8860,7 @@
     "value": "Arid Fear Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/excavationevenetbadgeitem": {
-    "value": "Cryotic Front Emblem"
+    "value": "永冻晶矿 Front Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/falseprofiteventbadgeitem": {
     "value": "False Profit Emblem"
@@ -9826,16 +9826,16 @@
     "value": "Proto-glaive Skin"
   },
   "/lotus/storeitems/upgrades/skins/referralseriestwo/rubedoakimbovipercamo": {
-    "value": "Twin Vipers Rubedo Plated Skin"
+    "value": "Twin Vipers 红化结晶 Plated Skin"
   },
   "/lotus/storeitems/upgrades/skins/referralseriestwo/rubedodrakgooncamo": {
-    "value": "Drakgoon Rubedo Plated Skin"
+    "value": "Drakgoon 红化结晶 Plated Skin"
   },
   "/lotus/storeitems/upgrades/skins/referralseriestwo/rubedogalatinecamo": {
-    "value": "Galatine Rubedo Plated Skin"
+    "value": "Galatine 红化结晶 Plated Skin"
   },
   "/lotus/storeitems/upgrades/skins/referralseriestwo/rubedovipercamo": {
-    "value": "Viper Rubedo Plated Skin"
+    "value": "Viper 红化结晶 Plated Skin"
   },
   "/lotus/storeitems/upgrades/skins/rhino/rhinoagileanims": {
     "value": "Rhino Agile Animation Set"
@@ -9865,10 +9865,10 @@
     "value": "Rhino Prime Helmet"
   },
   "/lotus/storeitems/upgrades/skins/rhino/rhinorubedoskin": {
-    "value": "Rhino Rubedo Plated Skin"
+    "value": "Rhino 红化结晶 Plated Skin"
   },
   "/lotus/storeitems/upgrades/skins/rhino/rhinorubedoskinhelmet": {
-    "value": "Rubedo Plated Helmet"
+    "value": "红化结晶 Plated Helmet"
   },
   "/lotus/storeitems/upgrades/skins/rhino/unlockrhinoagile": {
     "value": "Rhino Agile Animation Set"
@@ -9940,7 +9940,7 @@
     "value": "Uru Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/rubedodinospikescarf": {
-    "value": "Rubedo Plated Yamako Syandana"
+    "value": "红化结晶 Plated Yamako Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/solsticebarocape": {
     "value": "Solstice Ki'Teer Syandana"
@@ -11401,7 +11401,7 @@
     "value": "Karyst"
   },
   "/lotus/storeitems/weapons/tenno/melee/swords/pangolinsword/pangolinlongsword": {
-    "value": "Pangolin Sword"
+    "value": "鲮鲤剑"
   },
   "/lotus/storeitems/weapons/tenno/melee/swords/plasmasword/plasmalongsword": {
     "value": "Plasma Sword"
@@ -11620,55 +11620,55 @@
     "value": "Guardsman"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/ghoulbountytablearewards": {
-    "value": "100 Endo, Lith Z1 Relic, Lith H2 Relic, Hunter Adrenaline, Encrypted Journal Fragment, Hunter Munitions, Stubba Blueprint, Hunter Track"
+    "value": "100 内融核心, Lith Z1 Relic, Lith H2 Relic, Hunter Adrenaline, Encrypted Journal Fragment, Hunter Munitions, Stubba 蓝图, Hunter Track"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/ghoulbountytablebrewards": {
-    "value": "300 Endo, Neo K1 Relic, Neo B4 Relic, Hunter Recovery, Encrypted Journal Fragment, Hunter Synergy, Quartakk Blueprint, Hunter Command"
+    "value": "300 内融核心, Neo K1 Relic, Neo B4 Relic, Hunter Recovery, Encrypted Journal Fragment, Hunter Synergy, Quartakk 蓝图, Hunter Command"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieratablearewards": {
-    "value": "Redirection, Oxium x100, 1500 Credits Cache, 50 Endo, Iradite x15, Gara Chassis Blueprint, Point Blank, Streamline, Morphics x2"
+    "value": "Redirection, 奥席金属 x100, 1500 Credits Cache, 50 内融核心, Iradite x15, Gara Chassis 蓝图, Point Blank, Streamline, Morphics x2"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieratablebrewards": {
-    "value": "Pressure Point, Cryotic x100, 1500 Credit Cache, 50 Endo, Grokdrul x15, Gara Chassis Blueprint, Hornet Strike, Stretch, Morphics x2"
+    "value": "Pressure Point, 永冻晶矿 x100, 1500 Credit Cache, 50 内融核心, Grokdrul x15, Gara Chassis 蓝图, Hornet Strike, Stretch, Morphics x2"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieratablecrewards": {
-    "value": "Vitality, Plastids x200, 1500 Credits Cache, 50 Endo, Nistlepod x15, Gara Chassis Blueprint, Point Blank, Intensify, Gallium x2"
+    "value": "Vitality, 生物质 x200, 1500 Credits Cache, 50 内融核心, Nistlepod x15, Gara Chassis 蓝图, Point Blank, Intensify, Gallium x2"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierbtablearewards": {
-    "value": "Steel Fiber, 200 Oxium, 2500 Credit Cache, 100 Endo, Lith Z1 Relic, Gara Systems Blueprint, Charged Chamber, Burning Wasp, 2s Control Module"
+    "value": "Steel Fiber, 200 奥席金属, 2500 Credit Cache, 100 内融核心, Lith Z1 Relic, Gara Systems 蓝图, Charged Chamber, Burning Wasp, 2s Control Module"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierbtablebrewards": {
-    "value": "Energy Inversion, Cryotic x200, 2500 Credits Cache, 100 Endo, Lith H2 Relic, Gara Systems Blueprint, Speed Trigger, Reaping Spiral, Neural Sensors x2"
+    "value": "Energy Inversion, 永冻晶矿 x200, 2500 Credits Cache, 100 内融核心, Lith H2 Relic, Gara Systems 蓝图, Speed Trigger, Reaping Spiral, Neural Sensors x2"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierbtablecrewards": {
-    "value": "Point Strike, Circuits x300, 2500 Credits Cache, 100 Endo, Lith Z1 Relic, Gara Systemes Blueprint, Enhanced Durability, Grim Fury, Orokin Cell x2"
+    "value": "Point Strike, 电路 x300, 2500 Credits Cache, 100 内融核心, Lith Z1 Relic, Gara Systemes 蓝图, Enhanced Durability, Grim Fury, OROKIN电池 x2"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierctablearewards": {
-    "value": "Gladiator Aegis, MAdurai Lens, Cetus Wisp, 200 Endo, Meso O2 Relic, Gara Neuroptics Blueprint, Augur Accord, Shimmering Blight, Vigilante Supplies"
+    "value": "Gladiator Aegis, MAdurai Lens, Cetus Wisp, 200 内融核心, Meso O2 Relic, Gara Neuroptics 蓝图, Augur Accord, Shimmering Blight, Vigilante Supplies"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierctablebrewards": {
-    "value": "Vigilante Armaments, Vazarin Lens, Unairu Lens, 200 Endo, Meso T1 Relic, Gara Neuroptics Blueprint, Gladiator Might, Fracturing Wind, Augur Seeker"
+    "value": "Vigilante Armaments, Vazarin Lens, Unairu Lens, 200 内融核心, Meso T1 Relic, Gara Neuroptics 蓝图, Gladiator Might, Fracturing Wind, Augur Seeker"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierctablecrewards": {
-    "value": "Augur Pact, Naramon Lens, Zenurik Lens, 200 Endo, Meso T2 Relic, Gara Neuroptics Blueprint, Vigilante Fervor, Swirling Tiger, Gladiator Vice"
+    "value": "Augur Pact, Naramon Lens, Zenurik Lens, 200 内融核心, Meso T2 Relic, Gara Neuroptics 蓝图, Vigilante Fervor, Swirling Tiger, Gladiator Vice"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierdtablearewards": {
-    "value": "Gladiator Rush, Unairu Lens, Madurai Lens, 300 Endo, Neo K1 Relic, Cetus Wisp, Augur Reach, Eleventh Storm, Vigilante Offense"
+    "value": "Gladiator Rush, Unairu Lens, Madurai Lens, 300 内融核心, Neo K1 Relic, Cetus Wisp, Augur Reach, Eleventh Storm, Vigilante Offense"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierdtablebrewards": {
-    "value": "Vigilante Vigor, Zenurik Lens, Vazarin Lens, 300 Endo, Neo B4 Relic, Cetus Wisp, Gladiator Resolve, Gemini Cross, Augur Secrets"
+    "value": "Vigilante Vigor, Zenurik Lens, Vazarin Lens, 300 内融核心, Neo B4 Relic, Cetus Wisp, Gladiator Resolve, Gemini Cross, Augur Secrets"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierdtablecrewards": {
-    "value": "Augur Message, Kuva x100, Naramon Lens, 300 Endo, Neo Z1 Relic, Cetus Wisp, Vigilante Pursuit, Sinking Talon, Gladiator Finesse"
+    "value": "Augur Message, Kuva x100, Naramon Lens, 300 内融核心, Neo Z1 Relic, Cetus Wisp, Vigilante Pursuit, Sinking Talon, Gladiator Finesse"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieretablearewards": {
-    "value": "Breath of the Eidolon x5, Axi K2 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Gauntlet, Carving Mantis, Eidolon Lens Blueprint"
+    "value": "Breath of the Eidolon x5, Axi K2 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Gauntlet, Carving Mantis, Eidolon Lens 蓝图"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieretablebrewards": {
-    "value": "Breath of the Eidolon x5, Axi O2 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Right Gauntlet, Swooping Falcon, Eidolon Lens Blueprint"
+    "value": "Breath of the Eidolon x5, Axi O2 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Right Gauntlet, Swooping Falcon, Eidolon Lens 蓝图"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieretablecrewards": {
-    "value": "Breath of the Eidolon x5, Axi H3 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Blueprint, Twirling Spire, Eidolon Lens Blueprint"
+    "value": "Breath of the Eidolon x5, Axi H3 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith 蓝图, Twirling Spire, Eidolon Lens 蓝图"
   },
   "/lotus/types/game/notepacks/bardcorpuspacka": {
     "value": "Alpha Instruments"
@@ -11747,10 +11747,10 @@
     "value": "Actuators"
   },
   "/lotus/types/items/miscitems/alertium": {
-    "value": "Nitain Extract"
+    "value": "泥炭萃取物"
   },
   "/lotus/types/items/miscitems/alloyplate": {
-    "value": "Alloy Plate"
+    "value": "合金板"
   },
   "/lotus/types/items/miscitems/alphacorruptorresource": {
     "value": "Alpha Corruptor"
@@ -11759,7 +11759,7 @@
     "value": "Orokin Archive"
   },
   "/lotus/types/items/miscitems/argoncrystal": {
-    "value": "Argon Crystal"
+    "value": "氩结晶"
   },
   "/lotus/types/items/miscitems/beacon": {
     "value": "Proof Fragment"
@@ -11771,13 +11771,13 @@
     "value": "Lephantis Nav Coordinate"
   },
   "/lotus/types/items/miscitems/circuits": {
-    "value": "Circuits"
+    "value": "电路"
   },
   "/lotus/types/items/miscitems/controlmodule": {
     "value": "Control Module"
   },
   "/lotus/types/items/miscitems/cryotic": {
-    "value": "Cryotic"
+    "value": "永冻晶矿"
   },
   "/lotus/types/items/miscitems/dangerroomkey": {
     "value": "Simulacrum Access Key"
@@ -11789,7 +11789,7 @@
     "value": "Synthula"
   },
   "/lotus/types/items/miscitems/ferrite": {
-    "value": "Ferrite"
+    "value": "铁氧体"
   },
   "/lotus/types/items/miscitems/forma": {
     "value": "Forma"
@@ -11831,7 +11831,7 @@
     "value": "Morphics"
   },
   "/lotus/types/items/miscitems/nanospores": {
-    "value": "Nano Spores"
+    "value": "纳米孢子"
   },
   "/lotus/types/items/miscitems/navcode": {
     "value": "Nav Coordinate"
@@ -11846,37 +11846,37 @@
     "value": "Omega Isotope"
   },
   "/lotus/types/items/miscitems/orokincatalyst": {
-    "value": "Orokin Catalyst"
+    "value": "OROKIN催化剂"
   },
   "/lotus/types/items/miscitems/orokincell": {
-    "value": "Orokin Cell"
+    "value": "OROKIN电池"
   },
   "/lotus/types/items/miscitems/orokinreactor": {
-    "value": "Orokin Reactor"
+    "value": "OROKIN反应堆"
   },
   "/lotus/types/items/miscitems/oxiumalloy": {
-    "value": "Oxium"
+    "value": "奥席金属"
   },
   "/lotus/types/items/miscitems/plastids": {
-    "value": "Plastids"
+    "value": "生物质"
   },
   "/lotus/types/items/miscitems/polymerbundle": {
-    "value": "Polymer Bundle"
+    "value": "聚合物束"
   },
   "/lotus/types/items/miscitems/primebucks": {
     "value": "Orokin Ducats"
   },
   "/lotus/types/items/miscitems/rubedo": {
-    "value": "Rubedo"
+    "value": "红化结晶"
   },
   "/lotus/types/items/miscitems/salvage": {
-    "value": "Salvage"
+    "value": "回收金属"
   },
   "/lotus/types/items/miscitems/stablecorruptorresource": {
     "value": "Stable Corruptor"
   },
   "/lotus/types/items/miscitems/tellurium": {
-    "value": "Tellurium"
+    "value": "碲"
   },
   "/lotus/types/items/miscitems/utilityunlocker": {
     "value": "Exilus Adapter"
@@ -11936,49 +11936,49 @@
     "value": "--"
   },
   "/lotus/types/recipes/components/formablueprint": {
-    "value": "Forma Blueprint"
+    "value": "Forma 蓝图"
   },
   "/lotus/types/recipes/components/orokincatalystblueprint": {
-    "value": "Orokin Catalyst Blueprint"
+    "value": "OROKIN催化剂 蓝图"
   },
   "/lotus/types/recipes/components/orokinreactorblueprint": {
-    "value": "Orokin Reactor Blueprint"
+    "value": "OROKIN反应堆 蓝图"
   },
   "/lotus/types/recipes/components/utilityunlockerblueprint": {
-    "value": "Exilus Adapter Blueprint"
+    "value": "Exilus Adapter 蓝图"
   },
   "/lotus/types/recipes/helmets/statlesslokialthelmetblueprint": {
-    "value": "Essence Loki Helmet Blueprint"
+    "value": "Essence Loki 头盔蓝图"
   },
   "/lotus/types/recipes/helmets/statlessnyxalthelmetblueprint": {
-    "value": "Menticide Nyx Helmet Blueprint"
+    "value": "Menticide Nyx 头盔蓝图"
   },
   "/lotus/types/recipes/helmets/statlessv2nyxalthelmetblueprint": {
-    "value": "Vespa Nyx Helmet Blueprint"
+    "value": "Vespa Nyx 头盔蓝图"
   },
   "/lotus/types/recipes/weapons/deravandalblueprint": {
-    "value": "Dera Vandal Blueprint"
+    "value": "Dera Vandal 蓝图"
   },
   "/lotus/types/recipes/weapons/grineercombatknifeprint": {
-    "value": "Sheev Blueprint"
+    "value": "Sheev 蓝图"
   },
   "/lotus/types/recipes/weapons/grineercombatknifesortieblueprint": {
-    "value": "Sheev Blueprint"
+    "value": "Sheev 蓝图"
   },
   "/lotus/types/recipes/weapons/karakwraithblueprint": {
-    "value": "Karak Wraith Blueprint"
+    "value": "Karak Wraith 蓝图"
   },
   "/lotus/types/recipes/weapons/latronwraithblueprint": {
-    "value": "Latron Wraith Blueprint"
+    "value": "Latron Wraith 蓝图"
   },
   "/lotus/types/recipes/weapons/snipetronvandalblueprint": {
-    "value": "Snipetron Vandal Blueprint"
+    "value": "Snipetron Vandal 蓝图"
   },
   "/lotus/types/recipes/weapons/strunwraithblueprint": {
-    "value": "Strun Wraith Blueprint"
+    "value": "Strun Wraith 蓝图"
   },
   "/lotus/types/recipes/weapons/twinviperswraithblueprint": {
-    "value": "Wraith Twin Vipers Blueprint"
+    "value": "Wraith Twin Vipers 蓝图"
   },
   "/lotus/types/recipes/weapons/weaponparts/deravandalbarrel": {
     "value": "Dera Vandal Barrel"
@@ -13040,7 +13040,7 @@
     "value": "Kinetic Siphon Trap"
   },
   "/lotus/types/storeitems/packages/iceeventmodpack": {
-    "value": "Cryotic Mod Pack"
+    "value": "永冻晶矿 Mod Pack"
   },
   "/lotus/types/storeitems/packages/immortalskinpack": {
     "value": "Immortal Skin Bundle"
@@ -13490,13 +13490,13 @@
     "value": "Loot Radar"
   },
   "/lotus/upgrades/mods/fusionbundles/alertfusionbundlelarge": {
-    "value": "150 Endo"
+    "value": "150 内融核心"
   },
   "/lotus/upgrades/mods/fusionbundles/alertfusionbundlemedium": {
-    "value": "100 Endo"
+    "value": "100 内融核心"
   },
   "/lotus/upgrades/mods/fusionbundles/alertfusionbundlesmall": {
-    "value": "80 Endo"
+    "value": "80 内融核心"
   },
   "/lotus/upgrades/skins/antimatter/novaalternateskin": {
     "value": "Nova Immortal Skin"
