@@ -1419,38 +1419,38 @@
     "enemy": "Corpus",
     "type": "Assassination"
   },
-  "水星HUB": {
-    "value": "Larunda Relay (水星)",
+  "MercuryHUB": {
+    "value": "Larunda 中继站 (水星)",
     "enemy": "Grineer",
     "type": "Relay"
   },
-  "金星HUB": {
-    "value": "Vesper Relay (金星)",
+  "VenusHUB": {
+    "value": "Vesper 中继站 (金星)",
     "enemy": "Corpus",
     "type": "Relay"
   },
-  "地球HUB": {
-    "value": "Strata Relay (地球)",
+  "EarthHUB": {
+    "value": "Strata 中继站 (地球)",
     "enemy": "Grineer",
     "type": "Relay"
   },
-  "土星HUB": {
-    "value": "Kronia Relay (土星)",
+  "SaturnHUB": {
+    "value": "Kronia 中继站 (土星)",
     "enemy": "Grineer",
     "type": "Relay"
   },
-  "阋神星HUB": {
-    "value": "Kuiper Relay (阋神星)",
+  "ErisHUB": {
+    "value": "Kuiper 中继站 (阋神星)",
     "enemy": "Infested",
     "type": "Relay"
   },
-  "欧罗巴HUB": {
-    "value": "Leonov Relay (欧罗巴)",
+  "EuropaHUB": {
+    "value": "Leonov 中继站 (欧罗巴)",
     "enemy": "Corpus",
     "type": "Relay"
   },
-  "冥王星HUB": {
-    "value": "Orcus Relay (冥王星)",
+  "PlutoHUB": {
+    "value": "Orcus 中继站 (冥王星)",
     "enemy": "Corpus",
     "type": "Relay"
   },
